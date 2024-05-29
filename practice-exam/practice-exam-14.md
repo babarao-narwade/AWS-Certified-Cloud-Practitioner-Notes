@@ -442,6 +442,8 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: BC
+For On-prem codeDeoply only work and for both on prim and cloud OpsWork will work.
+Deployment Target Type: AWS CodeDeploy is primarily designed to deploy applications to any type of compute instance, including EC2 instances, on-premises servers, and Lambda functions. On the other hand, AWS OpsWorks focuses more on automating infrastructure management and is primarily used to deploy and manage applications on EC2 instances.
 
     Explanation:
     - <https://docs.aws.amazon.com/codedeploy/latest/userguide/instances-on-premises.html>
